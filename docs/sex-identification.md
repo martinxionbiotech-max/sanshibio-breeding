@@ -35,7 +35,7 @@ tags: [赛鸽性别鉴定, 性别鉴定, 公母鉴定, 幼鸽, 性染色体]
 - **雄鸽（ZZ）**：仅检测到 Z 染色体特异片段
 - **雌鸽（ZW）**：同时检测到 Z 与 W 染色体特异片段
 
-在[三狮生物](https://sanshibio.com/)的检测体系中，性别位点已被纳入 **58 个 SNP 位点**（57 个 SNP 位点 + 性别位点），可与[飞行能力基因检测](https://sanshibio.com/flight-ability/)、[赛鸽亲子鉴定](paternity-test.md)等同步完成，一份羽毛样本解决多项需求。
+在[三狮生物](https://sanshibio.net/)的检测体系中，性别位点已被纳入 **58 个 SNP 位点**（57 个 SNP 位点 + 性别位点），可与[飞行能力基因检测](https://sanshibio.net/flight-ability/)、[赛鸽亲子鉴定](paternity-test.md)等同步完成，一份羽毛样本解决多项需求。
 
 ## 赛鸽性别鉴定的价值
 
@@ -47,17 +47,17 @@ tags: [赛鸽性别鉴定, 性别鉴定, 公母鉴定, 幼鸽, 性染色体]
 ## 检测方式实操
 
 1. **采样**：拔取 4–6 根胸腹部羽毛（带根部毛囊），无需采血
-2. **送检**：样本寄送或交至[三狮生物](https://sanshibio.com/)实验室
+2. **送检**：样本寄送或交至[三狮生物](https://sanshibio.net/)实验室
 3. **检测**：自动化检测 58 个 SNP 位点（含性别位点）
 4. **出具报告**：明确标注雌雄（♂/♀）及基因型结果
 
-幼鸽离巢后即可检测，建议尽早进行，为配对与留种规划赢得时间。检测可与飞行能力基因、[亲子鉴定](paternity-test.md)、[近亲系数检测](inbreeding-coefficient.md)等项目[一站式完成](https://sanshibio.com/services/)。
+幼鸽离巢后即可检测，建议尽早进行，为配对与留种规划赢得时间。检测可与飞行能力基因、[亲子鉴定](paternity-test.md)、[近亲系数检测](inbreeding-coefficient.md)等项目[一站式完成](https://sanshibio.net/services/)。
 
 > 💡 提示：基因性别鉴定准确率接近 100%，远高于外观判断与翻肛检查。建议在幼鸽离巢后即采样检测，从源头建立准确的鸽群性别档案。
 
 ## 性别鉴定与血统管理的关系
 
-性别鉴定是血统库的重要一环。在[基因身份证](https://genes.sanshibio.com/gene-id-card/)建档时同步确认性别，可让档案更完整；在[近亲系数检测](inbreeding-coefficient.md)与配对规划中，准确的性别信息是避免「同性配对」、制定合理选配方案的前提。完整血统鉴定技术总览见本库[首页](index.md)。
+性别鉴定是血统库的重要一环。在[基因身份证](https://genes.sanshibio.net/gene-id-card/)建档时同步确认性别，可让档案更完整；在[近亲系数检测](inbreeding-coefficient.md)与配对规划中，准确的性别信息是避免「同性配对」、制定合理选配方案的前提。完整血统鉴定技术总览见本库[首页](index.md)。
 
 ## 核心要点
 

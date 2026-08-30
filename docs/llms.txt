@@ -1,21 +1,21 @@
-# breeding.sanshibio.com
+# breeding.sanshibio.net
 > 赛鸽血统鉴定与育种：亲子鉴定、性别鉴定、近亲系数、幼鸽筛选与种鸽配对。
 
-- [赛鸽育种血统库：亲子鉴定、性别鉴定与近亲系数导航](https://breeding.sanshibio.com/): 知识库首页与导航。
+- [赛鸽育种血统库：亲子鉴定、性别鉴定与近亲系数导航](https://breeding.sanshibio.net/): 知识库首页与导航。
 
 ## 血统鉴定
-- [赛鸽亲子鉴定指南：原理、流程与血统认证](https://breeding.sanshibio.com/paternity-test/): 详解赛鸽亲子鉴定的科学原理（孟德尔遗传与SNP位点）、亲权指数计算与检测流程，帮助鸽友科学验证血统、规范育种管。
-- [赛鸽性别鉴定：基因检测如何精准区分公母](https://breeding.sanshibio.com/sex-identification/): 解读赛鸽性别鉴定的科学原理与应用价值，说明性染色体（ZW型）基因检测如何在幼鸽阶段精准区分公母，避免传统外观判。
-- [赛鸽近亲系数检测：近交风险评估与AB鸽识别](https://breeding.sanshibio.com/inbreeding-coefficient/): 详解赛鸽近亲系数的原理与检测意义，说明DNA检测如何量化近交程度、评估近交衰退风险，并解读AB鸽个体识别技术如。
+- [赛鸽亲子鉴定指南：原理、流程与血统认证](https://breeding.sanshibio.net/paternity-test/): 详解赛鸽亲子鉴定的科学原理（孟德尔遗传与SNP位点）、亲权指数计算与检测流程，帮助鸽友科学验证血统、规范育种管。
+- [赛鸽性别鉴定：基因检测如何精准区分公母](https://breeding.sanshibio.net/sex-identification/): 解读赛鸽性别鉴定的科学原理与应用价值，说明性染色体（ZW型）基因检测如何在幼鸽阶段精准区分公母，避免传统外观判。
+- [赛鸽近亲系数检测：近交风险评估与AB鸽识别](https://breeding.sanshibio.net/inbreeding-coefficient/): 详解赛鸽近亲系数的原理与检测意义，说明DNA检测如何量化近交程度、评估近交衰退风险，并解读AB鸽个体识别技术如。
 
 ## 育种实战
-- [赛鸽血统档案管理指南：从基因身份证到谱系数字化](https://breeding.sanshibio.com/pedigree-management/): 赛鸽血统档案是育种与交易的信任基石。本文系统讲解血统档案管理全流程：基因身份证建档、亲子鉴定溯源、近亲系数管控。
-- [赛鸽幼鸽筛选指南：基因检测早判潜力](https://breeding.sanshibio.com/squab-selection/): 赛鸽幼鸽筛选是育种成败的关键一环。本文系统讲解如何用飞行能力基因检测、健康筛查与血统验证三大维度，在幼鸽阶段科。
-- [赛鸽种鸽配对策略：基因数据科学选配](https://breeding.sanshibio.com/pairing-strategy/): 赛鸽种鸽配对是育种的核心决策。本文系统讲解如何用飞行能力基因互补、近亲系数管控与健康筛查科学设计配对方案，避免。
-- [赛鸽赛事防作弊：基因身份证杜绝AB鸽顶替](https://breeding.sanshibio.com/race-fairness/): 赛鸽赛事防作弊的核心是身份核验。本文系统讲解AB鸽顶替、足环造假等常见作弊手段，以及基因身份证、亲子鉴定等DN。
+- [赛鸽血统档案管理指南：从基因身份证到谱系数字化](https://breeding.sanshibio.net/pedigree-management/): 赛鸽血统档案是育种与交易的信任基石。本文系统讲解血统档案管理全流程：基因身份证建档、亲子鉴定溯源、近亲系数管控。
+- [赛鸽幼鸽筛选指南：基因检测早判潜力](https://breeding.sanshibio.net/squab-selection/): 赛鸽幼鸽筛选是育种成败的关键一环。本文系统讲解如何用飞行能力基因检测、健康筛查与血统验证三大维度，在幼鸽阶段科。
+- [赛鸽种鸽配对策略：基因数据科学选配](https://breeding.sanshibio.net/pairing-strategy/): 赛鸽种鸽配对是育种的核心决策。本文系统讲解如何用飞行能力基因互补、近亲系数管控与健康筛查科学设计配对方案，避免。
+- [赛鸽赛事防作弊：基因身份证杜绝AB鸽顶替](https://breeding.sanshibio.net/race-fairness/): 赛鸽赛事防作弊的核心是身份核验。本文系统讲解AB鸽顶替、足环造假等常见作弊手段，以及基因身份证、亲子鉴定等DN。
 
 ## 种鸽管理
-- [赛鸽种鸽引进与检疫指南：从血统验真到健康筛查](https://breeding.sanshibio.com/breeder-introduction/): 赛鸽种鸽引进检疫是血统库的安全关口。本文系统讲解种鸽引进流程、隔离检疫规范、病原健康筛查与飞行能力及血统基因评。
-- [赛鸽近亲育种vs杂交育种：原理、利弊与科学选择](https://breeding.sanshibio.com/inbreeding-vs-hybrid/): 赛鸽近亲育种与杂交育种是两种核心育种路线。本文详解两者的遗传原理、利弊权衡（近交衰退 vs 杂交优势），并说明。
-- [赛鸽换羽期管理指南：换羽生理机制与营养健康](https://breeding.sanshibio.com/molting-management/): 赛鸽换羽期是全年健康与羽质的关键窗口。本文系统讲解换羽的生理机制、营养与健康管理要点、换羽与育种训练的关系及换。
-- [赛鸽种鸽年龄与育种价值：最佳繁殖年龄与老龄鸽管理](https://breeding.sanshibio.com/pigeon-age-breeding/): 赛鸽种鸽年龄直接影响繁殖力与后代质量。本文系统讲解种鸽最佳繁殖年龄、年龄与繁殖力及后代质量的关系、老龄种鸽的科。
+- [赛鸽种鸽引进与检疫指南：从血统验真到健康筛查](https://breeding.sanshibio.net/breeder-introduction/): 赛鸽种鸽引进检疫是血统库的安全关口。本文系统讲解种鸽引进流程、隔离检疫规范、病原健康筛查与飞行能力及血统基因评。
+- [赛鸽近亲育种vs杂交育种：原理、利弊与科学选择](https://breeding.sanshibio.net/inbreeding-vs-hybrid/): 赛鸽近亲育种与杂交育种是两种核心育种路线。本文详解两者的遗传原理、利弊权衡（近交衰退 vs 杂交优势），并说明。
+- [赛鸽换羽期管理指南：换羽生理机制与营养健康](https://breeding.sanshibio.net/molting-management/): 赛鸽换羽期是全年健康与羽质的关键窗口。本文系统讲解换羽的生理机制、营养与健康管理要点、换羽与育种训练的关系及换。
+- [赛鸽种鸽年龄与育种价值：最佳繁殖年龄与老龄鸽管理](https://breeding.sanshibio.net/pigeon-age-breeding/): 赛鸽种鸽年龄直接影响繁殖力与后代质量。本文系统讲解种鸽最佳繁殖年龄、年龄与繁殖力及后代质量的关系、老龄种鸽的科。
