@@ -38,6 +38,11 @@ nav:
       - 幼鸽筛选: squab-selection.md
       - 种鸽配对策略: pairing-strategy.md
       - 赛事防作弊: race-fairness.md
+  - 种鸽管理:
+      - 种鸽引进与检疫: breeder-introduction.md
+      - 近亲 vs 杂交: inbreeding-vs-hybrid.md
+      - 换羽期管理: molting-management.md
+      - 年龄与育种价值: pigeon-age-breeding.md
 
 markdown_extensions:
   - admonition

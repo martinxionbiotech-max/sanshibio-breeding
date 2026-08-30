@@ -34,6 +34,10 @@ tags: [赛鸽血统鉴定, 亲子鉴定, 性别鉴定, 近亲系数, 育种]
 - [赛鸽幼鸽筛选](squab-selection.md)——基因潜力、健康状态与血统身份三维评估
 - [赛鸽种鸽配对策略](pairing-strategy.md)——飞行基因互补、近亲系数管控与健康筛查
 - [赛鸽赛事防作弊](race-fairness.md)——基因身份证与 AB 鸽识别保障赛事公平
+- [赛鸽种鸽引进与检疫](breeder-introduction.md)——引进流程、隔离检疫、病原筛查与基因评估
+- [近亲育种 vs 杂交育种](inbreeding-vs-hybrid.md)——近交衰退与杂交优势的原理权衡与科学选择
+- [赛鸽换羽期管理](molting-management.md)——换羽生理机制、营养健康与异常处理
+- [赛鸽年龄与育种价值](pigeon-age-breeding.md)——最佳繁殖年龄、老龄鸽管理与检测差异
 
 ## 阅读路径建议
 
