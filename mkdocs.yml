@@ -1,0 +1,56 @@
+site_name: 赛鸽育种血统知识库
+site_url: https://breeding.sanshibio.com/
+site_description: 赛鸽血统鉴定与育种：亲子鉴定、性别鉴定、近亲系数、幼鸽筛选与种鸽配对策略。
+site_author: 河北三狮生物科技有限公司
+copyright: © 2026 河北三狮生物科技有限公司 · 冀ICP备20004219号-1
+
+theme:
+  name: material
+  language: zh
+  custom_dir: overrides
+  features:
+    - navigation.top
+    - navigation.sections
+    - navigation.indexes
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      toggle:
+        icon: material/brightness-7
+        name: 切换至深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      toggle:
+        icon: material/brightness-4
+        name: 切换至浅色模式
+
+nav:
+  - 首页: index.md
+  - 血统鉴定:
+      - 亲子鉴定: paternity-test.md
+      - 性别鉴定: sex-identification.md
+      - 近亲系数检测: inbreeding-coefficient.md
+  - 育种实战:
+      - 血统档案管理: pedigree-management.md
+      - 幼鸽筛选: squab-selection.md
+      - 种鸽配对策略: pairing-strategy.md
+      - 赛事防作弊: race-fairness.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed
+
+extra:
+  social:
+    - icon: fontawesome/brands/weixin
+      link: "https://sanshibio.com/"
+      name: 主站

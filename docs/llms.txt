@@ -1,0 +1,15 @@
+# breeding.sanshibio.com
+> 赛鸽血统鉴定与育种：亲子鉴定、性别鉴定、近亲系数、幼鸽筛选与种鸽配对。
+
+- [赛鸽育种血统库：亲子鉴定、性别鉴定与近亲系数导航](https://breeding.sanshibio.com/): 知识库首页与导航。
+
+## 血统鉴定
+- [赛鸽亲子鉴定指南：原理、流程与血统认证](https://breeding.sanshibio.com/paternity-test/): 详解赛鸽亲子鉴定的科学原理（孟德尔遗传与SNP位点）、亲权指数计算与检测流程，帮助鸽友科学验证血统、规范育种管理、杜绝虚。
+- [赛鸽性别鉴定：基因检测如何精准区分公母](https://breeding.sanshibio.com/sex-identification/): 解读赛鸽性别鉴定的科学原理与应用价值，说明性染色体（ZW型）基因检测如何在幼鸽阶段精准区分公母，避免传统外观判断的误差，。
+- [赛鸽近亲系数检测：近交风险评估与AB鸽识别](https://breeding.sanshibio.com/inbreeding-coefficient/): 详解赛鸽近亲系数的原理与检测意义，说明DNA检测如何量化近交程度、评估近交衰退风险，并解读AB鸽个体识别技术如何保障血统。
+
+## 育种实战
+- [赛鸽血统档案管理指南：从基因身份证到谱系数字化](https://breeding.sanshibio.com/pedigree-management/): 赛鸽血统档案是育种与交易的信任基石。本文系统讲解血统档案管理全流程：基因身份证建档、亲子鉴定溯源、近亲系数管控与谱系数字。
+- [赛鸽幼鸽筛选指南：基因检测早判潜力](https://breeding.sanshibio.com/squab-selection/): 赛鸽幼鸽筛选是育种成败的关键一环。本文系统讲解如何用飞行能力基因检测、健康筛查与血统验证三大维度，在幼鸽阶段科学筛选、量。
+- [赛鸽种鸽配对策略：基因数据科学选配](https://breeding.sanshibio.com/pairing-strategy/): 赛鸽种鸽配对是育种的核心决策。本文系统讲解如何用飞行能力基因互补、近亲系数管控与健康筛查科学设计配对方案，避免近交衰退与。
+- [赛鸽赛事防作弊：基因身份证杜绝AB鸽顶替](https://breeding.sanshibio.com/race-fairness/): 赛鸽赛事防作弊的核心是身份核验。本文系统讲解AB鸽顶替、足环造假等常见作弊手段，以及基因身份证、亲子鉴定等DNA核验技术。
