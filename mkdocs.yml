@@ -44,6 +44,23 @@ nav:
       - 换羽期管理: molting-management.md
       - 年龄与育种价值: pigeon-age-breeding.md
 
+  - English:
+      - Home: en/index.md
+      - Pedigree & Parentage:
+          - Paternity Testing: en/paternity-test.md
+          - Sex Determination: en/sex-identification.md
+          - Inbreeding Coefficient: en/inbreeding-coefficient.md
+      - Breeding Practice:
+          - Pedigree Records: en/pedigree-management.md
+          - Young Bird Selection: en/squab-selection.md
+          - Pairing Strategy: en/pairing-strategy.md
+          - Race Anti-Fraud: en/race-fairness.md
+      - Breeder Management:
+          - Import & Quarantine: en/breeder-introduction.md
+          - Inbreeding vs Crossbreeding: en/inbreeding-vs-hybrid.md
+          - Molt Management: en/molting-management.md
+          - Age & Breeding Value: en/pigeon-age-breeding.md
+
 markdown_extensions:
   - admonition
   - tables
